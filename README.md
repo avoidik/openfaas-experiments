@@ -1,6 +1,6 @@
 # OpenFaas experiment
 
-Based on [walkthrough](https://medium.com/@yankee.exe/deploy-your-serverless-python-function-locally-with-openfaas-in-kubernetes-c3b564e6fd18)
+Based on [walkthrough](https://medium.com/@yankee.exe/deploy-your-serverless-python-function-locally-with-openfaas-in-kubernetes-c3b564e6fd18) and optimized for Windows
 
 ## How to run
 
